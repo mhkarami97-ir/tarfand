@@ -34,6 +34,6 @@ tags:
 
  اکنون کافی است بر روی Start Server کلیک کنید.
 
- ![mhkarami97](/files/2018/07/itarfand-749-min.jpg)اکنون اگر هر کسی که در شبکه است آدرس مشخص شده را در مرورگر خود وارد کند می تواند صفحه نمایش شما را مشاهده کند.
+ ![mhkarami97](/assets/files/2018/07/itarfand-749-min.jpg)اکنون اگر هر کسی که در شبکه است آدرس مشخص شده را در مرورگر خود وارد کند می تواند صفحه نمایش شما را مشاهده کند.
 
- ![mhkarami97](/files/2018/07/itarfand-750-min.jpg)  
+ ![mhkarami97](/assets/files/2018/07/itarfand-750-min.jpg)  
