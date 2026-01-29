@@ -1,6 +1,6 @@
 ---
 title: 'نمایش آیکون فایل های APK در رایانه'
-image: /files/2017/07/itarfand-394-min.jpg
+image: /assets/files/2017/07/itarfand-394-min.jpg
 categories:
     - 'نرم افزار کاربردی'
 tags:

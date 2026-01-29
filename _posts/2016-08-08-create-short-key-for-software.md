@@ -1,6 +1,6 @@
 ---
 title: 'ساخت کلید میانبر برای نرم افزارها'
-image: /files/2016/08/itarfand_3.jpg
+image: /assets/files/2016/08/itarfand_3.jpg
 categories:
     - 'ترفند ویندوز'
 tags:

@@ -1,6 +1,6 @@
 ---
 title: 'به اشتراک گذاری صفحه نمایش رایانه در شبکه'
-image: /files/2018/07/itarfand-751-min.jpg
+image: /assets/files/2018/07/itarfand-751-min.jpg
 categories:
     - 'نرم افزار کاربردی'
 tags:

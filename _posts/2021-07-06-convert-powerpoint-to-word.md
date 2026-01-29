@@ -1,6 +1,6 @@
 ---
 title: 'تبدیل فایل PowerPoint به Word'
-image: /files/2021/07/itarfand-1005-min.jpg
+image: /assets/files/2021/07/itarfand-1005-min.jpg
 categories:
     - 'ترفند نرم افزار'
 tags:

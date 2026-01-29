@@ -1,6 +1,6 @@
 ---
 title: 'ساخت User در سرور مجازی یا VPS'
-image: /files/2018/03/itarfand-683-min.jpg
+image: /assets/files/2018/03/itarfand-683-min.jpg
 categories:
     - 'ترفند ویندوز'
 tags:

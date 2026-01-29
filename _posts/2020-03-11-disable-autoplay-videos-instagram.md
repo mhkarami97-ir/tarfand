@@ -1,6 +1,6 @@
 ---
 title: 'غیر فعال سازی پخش خودکار ویدیو در اینستاگرام'
-image: /files/2020/03/itarfand-861-min.jpg
+image: /assets/files/2020/03/itarfand-861-min.jpg
 categories:
     - 'ترفند موبایل'
 tags:

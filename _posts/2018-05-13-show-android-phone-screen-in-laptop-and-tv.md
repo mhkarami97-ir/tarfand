@@ -1,6 +1,6 @@
 ---
 title: 'نمایش صفحه موبایل بر روی لپ تاپ و تلویزیون'
-image: /files/2018/05/itarfand-725-min.jpg
+image: /assets/files/2018/05/itarfand-725-min.jpg
 categories:
     - 'ترفند موبایل'
 tags:

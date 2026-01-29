@@ -1,6 +1,6 @@
 ---
 title: 'مشاهده فیلم ها در ویندوز بدون نیاز به دانلود کردن آنها'
-image: /files/2020/11/itarfand-936-min.jpg
+image: /assets/files/2020/11/itarfand-936-min.jpg
 categories:
     - 'ترفند نرم افزار'
 tags:

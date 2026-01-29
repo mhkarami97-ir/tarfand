@@ -1,6 +1,6 @@
 ---
 title: 'معرفی بهترین ویرایش گر های متن Open Source'
-image: /files/2018/04/itarfand-707-min.jpg
+image: /assets/files/2018/04/itarfand-707-min.jpg
 categories:
     - 'نرم افزار کاربردی'
 tags:

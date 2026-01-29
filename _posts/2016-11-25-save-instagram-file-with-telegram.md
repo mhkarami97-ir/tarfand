@@ -1,6 +1,6 @@
 ---
 title: 'ذخیره کردن عکس ها و فیلم های اینستاگرام توسط تلگرام'
-image: /files/2016/11/itarfand-108.jpg
+image: /assets/files/2016/11/itarfand-108.jpg
 categories:
     - 'ترفند اینترنت'
 tags:

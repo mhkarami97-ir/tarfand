@@ -1,6 +1,6 @@
 ---
 title: 'حل مشکل اپلیکیشن های ضبط تماس با اندروید ۹'
-image: /files/2020/03/itarfand-865-min.jpg
+image: /assets/files/2020/03/itarfand-865-min.jpg
 categories:
     - 'ترفند موبایل'
 tags:

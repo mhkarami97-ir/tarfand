@@ -1,6 +1,6 @@
 ---
 title: 'استفاده از موبایل به عنوان WebCam در ویندوز'
-image: /files/2020/11/itarfand-950-min.jpg
+image: /assets/files/2020/11/itarfand-950-min.jpg
 categories:
     - 'ترفند نرم افزار'
 tags:
