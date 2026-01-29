@@ -1,6 +1,6 @@
 ---
 title: 'آموزش پاک کردن پسورد نرم افزار Deep Freeze'
-cover_image: /files/2016/10/itarfand-87.jpg
+image: /files/2016/10/itarfand-87.jpg
 categories:
     - 'ترفند نرم افزار'
 tags:

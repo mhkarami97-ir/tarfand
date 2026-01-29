@@ -1,6 +1,6 @@
 ---
 title: 'جلوگیری از ایجاد تغییر در حافظه فلش USB'
-cover_image: /files/2020/04/itarfand-908-min.jpg
+image: /files/2020/04/itarfand-908-min.jpg
 categories:
     - 'ترفند ویندوز'
 ---

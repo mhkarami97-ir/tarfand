@@ -1,6 +1,6 @@
 ---
 title: 'آموزش نصب SQL Server بر روی ویندوز'
-cover_image: /files/2018/03/itarfand-675-min.jpg
+image: /files/2018/03/itarfand-675-min.jpg
 categories:
     - 'ترفند نرم افزار'
 ---

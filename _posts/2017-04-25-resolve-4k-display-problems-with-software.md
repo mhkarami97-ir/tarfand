@@ -1,6 +1,6 @@
 ---
 title: 'حل مشکل نرم افزارها با صفحه های ۴K'
-cover_image: /files/2017/04/itarfand-260.jpg
+image: /files/2017/04/itarfand-260.jpg
 categories:
     - 'ترفند ویندوز'
 tags:

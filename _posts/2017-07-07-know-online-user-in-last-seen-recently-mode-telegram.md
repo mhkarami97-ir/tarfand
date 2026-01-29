@@ -1,6 +1,6 @@
 ---
 title: 'دانستن آنلاین بودن فرد در حالت Last Seen Recently تلگرام'
-cover_image: /files/2017/07/itarfand-358.jpg
+image: /files/2017/07/itarfand-358.jpg
 categories:
     - 'ترفند موبایل'
 tags:

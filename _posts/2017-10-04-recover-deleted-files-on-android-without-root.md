@@ -1,6 +1,6 @@
 ---
 title: 'بازیابی اطلاعات پاک شده در اندروید بدون نیاز به روت'
-cover_image: /files/2017/10/itarfand-513-min.jpg
+image: /files/2017/10/itarfand-513-min.jpg
 categories:
     - 'ترفند موبایل'
 tags:

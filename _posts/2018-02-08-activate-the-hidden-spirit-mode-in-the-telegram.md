@@ -1,6 +1,6 @@
 ---
 title: 'فعال سازی حالت روح در تلگرام'
-cover_image: /files/2018/02/itarfand-653.jpg
+image: /files/2018/02/itarfand-653.jpg
 categories:
     - 'ترفند موبایل'
 tags:

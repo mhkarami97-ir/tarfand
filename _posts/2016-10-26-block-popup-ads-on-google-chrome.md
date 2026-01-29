@@ -1,6 +1,6 @@
 ---
 title: 'مسدود کردن تبلیغات PopUp در مرورگر گوگل کروم'
-cover_image: /files/2016/10/itarfand-91.jpg
+image: /files/2016/10/itarfand-91.jpg
 categories:
     - 'ترفند مرورگر'
 tags:

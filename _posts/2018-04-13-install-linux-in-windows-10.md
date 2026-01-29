@@ -1,6 +1,6 @@
 ---
 title: 'آموزش نصب Linux بر روی ویندوز ۱۰'
-cover_image: /files/2018/04/itarfand-703-min.jpg
+image: /files/2018/04/itarfand-703-min.jpg
 categories:
     - 'ترفند ویندوز'
 tags:

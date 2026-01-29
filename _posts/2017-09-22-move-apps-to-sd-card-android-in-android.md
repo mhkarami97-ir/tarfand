@@ -1,6 +1,6 @@
 ---
 title: 'انتقال برنامه های از حافظه داخلی به SD Card در اندروید بدون روت'
-cover_image: /files/2017/09/itarfand-503-min.jpg
+image: /files/2017/09/itarfand-503-min.jpg
 categories:
     - 'ترفند موبایل'
 tags:

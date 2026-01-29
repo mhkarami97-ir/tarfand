@@ -1,6 +1,6 @@
 ---
 title: 'آموزش تنظیم مودم های ADSL و WIFI'
-cover_image: /files/2018/07/itarfand-825-min.jpg
+image: /files/2018/07/itarfand-825-min.jpg
 categories:
     - 'ترفند ویندوز'
 tags:

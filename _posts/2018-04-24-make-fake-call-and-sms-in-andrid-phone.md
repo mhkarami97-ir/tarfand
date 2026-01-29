@@ -1,6 +1,6 @@
 ---
 title: 'درست کردن تماس و پیامک جعلی در موبایل'
-cover_image: /files/2018/04/itarfand-712-min.jpg
+image: /files/2018/04/itarfand-712-min.jpg
 categories:
     - 'ترفند موبایل'
 tags:

@@ -1,6 +1,6 @@
 ---
 title: 'مخفی کردن آخرین بازدید در تلگرام با Last Seen Recently'
-cover_image: /files/2017/04/itarfand-163.jpg
+image: /files/2017/04/itarfand-163.jpg
 categories:
     - 'ترفند نرم افزار'
 tags:

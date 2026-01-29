@@ -1,6 +1,6 @@
 ---
 title: 'دانلود و ذخیره Stroy های شبکه اجتماعی اینستاگرام'
-cover_image: /files/2018/02/itarfand-642.jpg
+image: /files/2018/02/itarfand-642.jpg
 categories:
     - 'ترفند مرورگر'
 tags:

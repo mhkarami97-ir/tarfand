@@ -1,6 +1,6 @@
 ---
 title: 'جلوگیری از ReStart شدن سیستم در زمان صفحه آبی مرگ'
-cover_image: /files/2017/08/itarfand-416-min.jpg
+image: /files/2017/08/itarfand-416-min.jpg
 categories:
     - 'ترفند ویندوز'
 tags:

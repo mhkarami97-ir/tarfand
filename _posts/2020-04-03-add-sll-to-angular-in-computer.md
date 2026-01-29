@@ -1,6 +1,6 @@
 ---
 title: 'اضافه کردن SSL به وبسایت در حال برنامه نویسی در Localhost'
-cover_image: /files/2020/04/itarfand-896-min.jpg
+image: /files/2020/04/itarfand-896-min.jpg
 categories:
     - 'ترفند برنامه نویسی'
 tags:

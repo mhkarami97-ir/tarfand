@@ -1,6 +1,6 @@
 ---
 title: 'دانستن پسورد ذخیره شده WiFi در ویندوز'
-cover_image: /files/2016/11/itarfand-104.jpg
+image: /files/2016/11/itarfand-104.jpg
 categories:
     - 'ترفند ویندوز'
 tags:

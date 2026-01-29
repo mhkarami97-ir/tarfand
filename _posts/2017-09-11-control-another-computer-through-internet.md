@@ -1,6 +1,6 @@
 ---
 title: 'مدیریت و کنترل از راه دور کامپیتور'
-cover_image: /files/2017/09/itarfand-489-min.jpg
+image: /files/2017/09/itarfand-489-min.jpg
 categories:
     - 'ترفند ویندوز'
 tags:

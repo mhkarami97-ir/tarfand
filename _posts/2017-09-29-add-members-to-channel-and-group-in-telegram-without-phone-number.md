@@ -1,6 +1,6 @@
 ---
 title: 'اضافه کردن افراد بدون شماره تلفن در گروه و کانال تلگرام'
-cover_image: /files/2017/09/itarfand-508-min.jpg
+image: /files/2017/09/itarfand-508-min.jpg
 categories:
     - 'ترفند موبایل'
 tags:

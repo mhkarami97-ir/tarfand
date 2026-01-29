@@ -1,6 +1,6 @@
 ---
 title: 'پاک کردن CMOS با نرم افزار PC CMOS Cleaner'
-cover_image: /files/2020/03/itarfand-879-min.jpg
+image: /files/2020/03/itarfand-879-min.jpg
 categories:
     - 'ترفند ویندوز'
 tags:

@@ -1,6 +1,6 @@
 ---
 title: 'انتقال اطلاعات بین حافظه های ابری'
-cover_image: /files/2017/12/itarfand-639-min.jpg
+image: /files/2017/12/itarfand-639-min.jpg
 categories:
     - 'سایت انگلیسی'
 tags:

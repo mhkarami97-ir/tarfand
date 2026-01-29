@@ -1,6 +1,6 @@
 ---
 title: 'تغییر آیکون حافظه های جانبی'
-cover_image: /files/2016/10/itarfand-86-1.jpg
+image: /files/2016/10/itarfand-86-1.jpg
 categories:
     - 'ترفند ویندوز'
 tags:

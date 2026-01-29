@@ -1,6 +1,6 @@
 ---
 title: 'آموزش بدست آوردن Source فایل های APK موبایل'
-cover_image: /files/2017/07/itarfand-377.jpg
+image: /files/2017/07/itarfand-377.jpg
 categories:
     - 'ترفند نرم افزار'
 tags:

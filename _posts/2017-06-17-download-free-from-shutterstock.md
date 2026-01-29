@@ -1,6 +1,6 @@
 ---
 title: 'دانلود رایگان عکس های ShutterStock'
-cover_image: /files/2017/06/itarfand-294.jpg
+image: /files/2017/06/itarfand-294.jpg
 categories:
     - 'ترفند اینترنت'
 tags:

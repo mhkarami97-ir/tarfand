@@ -1,6 +1,6 @@
 ---
 title: 'ساخت فایل نصبی بدون نیاز به کد نویسی با Smart Install Maker'
-cover_image: /files/2016/11/itarfand-100.jpg
+image: /files/2016/11/itarfand-100.jpg
 categories:
     - 'ترفند نرم افزار'
 tags:

@@ -1,6 +1,6 @@
 ---
 title: 'فعال کردن تم تاریک برای واتساپ'
-cover_image: /files/2020/10/itarfand-930-min.jpg
+image: /files/2020/10/itarfand-930-min.jpg
 categories:
     - 'ترفند موبایل'
 ---

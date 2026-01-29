@@ -1,6 +1,6 @@
 ---
 title: 'غیر فعال کردن وب کم و میکروفون لپ تاپ'
-cover_image: /files/2017/04/itarfand-173.jpg
+image: /files/2017/04/itarfand-173.jpg
 categories:
     - 'ترفند ویندوز'
 tags:
