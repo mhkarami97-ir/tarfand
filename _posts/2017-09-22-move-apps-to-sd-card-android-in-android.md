@@ -64,4 +64,4 @@ tags:
 
 <span style="color: #0000ff;">**انتقال به حافظه خارجی در اندروید روت شده**</span>
 
-برای این کار می توانید از نرم افزارهای <span style="color: #008000;">[link2sd ](http://www.farsroid.com/link2sd-plus-android/)</span>و <span style="color: #008000;">[appmgr ](http://www.farsroid.com/appmgr-pro-iii-app-2-sd/)</span>استفاده کنید.
+برای این کار می توانید از نرم افزارهای <span style="color: #008000;">[link2sd ](https://www.farsroid.com/link2sd-plus-android/)</span>و <span style="color: #008000;">[appmgr ](https://www.farsroid.com/appmgr-pro-iii-app-2-sd/)</span>استفاده کنید.

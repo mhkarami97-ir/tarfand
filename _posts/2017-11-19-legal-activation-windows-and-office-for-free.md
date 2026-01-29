@@ -55,7 +55,7 @@ tags:
 
 ![mhkarami97](/assets/files/2017/11/itarfand-593-min.jpg)  
 
-سپس با توجه به ورژن ویندوز خود یکی از سریال های [(این لینک)](http://textuploader.com/dq5hq) را وارد کنید و اینتر را بزنید.
+سپس با توجه به ورژن ویندوز خود یکی از سریال های [(این لینک)](https://textuploader.com/dq5hq) را وارد کنید و اینتر را بزنید.
 
 ![mhkarami97](/assets/files/2017/11/itarfand-594-min.jpg)  
 
@@ -71,7 +71,7 @@ tags:
 
 ![mhkarami97](/assets/files/2017/11/itarfand-598-min.jpg)  
 
-اکنون شما به یک فرد متصل می شوید که باید با دادن *Installation ID* و *Product Key* که از [(این لینک)](http://textuploader.com/dq5hq) برداشته بودید ، از او بخواهید که *Confirmation Id* را به شما بدهد.
+اکنون شما به یک فرد متصل می شوید که باید با دادن *Installation ID* و *Product Key* که از [(این لینک)](https://textuploader.com/dq5hq) برداشته بودید ، از او بخواهید که *Confirmation Id* را به شما بدهد.
 
 ![mhkarami97](/assets/files/2017/11/itarfand-599-min.jpg)  
 
@@ -93,7 +93,7 @@ tags:
 
 <span style="color: #0000ff;">**فعال سازی قانونی Microsoft Office 2016**</span>
 
-ابتدا به سربرگ *File* بروید و از سمت چپ *Account* را انتخاب کنید وسپس بر روی *Change Product Key* کلیک کنید و در بخش باز شده یکی از کدهای [(این لینک)](http://textuploader.com/dq5xk) را با توجه به نوع آفیس خود وارد کنید و سپس بر روی *Install* کلیک کنید.
+ابتدا به سربرگ *File* بروید و از سمت چپ *Account* را انتخاب کنید وسپس بر روی *Change Product Key* کلیک کنید و در بخش باز شده یکی از کدهای [(این لینک)](https://textuploader.com/dq5xk) را با توجه به نوع آفیس خود وارد کنید و سپس بر روی *Install* کلیک کنید.
 
 ![mhkarami97](/assets/files/2017/11/itarfand-612-min.jpg)  
 
@@ -107,4 +107,4 @@ tags:
 
 ![mhkarami97](/assets/files/2017/11/itarfand-615-min.jpg)  
 
-با انجام کارهای بالا ویندوز و آفیس شما به صورت قانونی و نامحدود فعال شده است که می توانید با [*OPA Back Up*](http://www.opa-backup.de/index_en.php) از آن پشتیبان بگیرید و هر بار که خواستید از آن استفاده کنید.
+با انجام کارهای بالا ویندوز و آفیس شما به صورت قانونی و نامحدود فعال شده است که می توانید با [*OPA Back Up*](https://www.opa-backup.de/index_en.php) از آن پشتیبان بگیرید و هر بار که خواستید از آن استفاده کنید.

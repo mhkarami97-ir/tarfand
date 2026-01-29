@@ -16,7 +16,7 @@ tags:
 
  یکی از مشکلاتی که افراد در ارائه کنفرانس دارند دور بودن از لپ تاپ و سیستم می باشد. از راه حل های این مشکل می تواند به استفاده از موس بیسیم و یا دستگاه مخصوص کنترل از راه دور می باشد. در این پست از آی ترفند اپلیکیشنی را برای اپ های اندرویدی برای شما آماده کرده ایم که توسط آن می توانید به راحتی فایل های Office خود را از راه دور کنترل کنید و حتی از موبایل خود به عنوان لیزر نیز استفاده کنید.
 
- ابتدا افزونه Office Remote را از[ (این لینک) ](https://www.microsoft.com/en-us/download/confirmation.aspx?id=41149)دانلود کنید. سپس از[ (این لینک)](https://www.microsoft.com/en-us/p/office-remote/9wzdncrfhx5h#activetab=pivot:overviewtab) اپ موبایل آن را دانلود کنید. اگر از این لینک تنوانستید می توانید اپ را از [(این لینک)](http://dl.androidgozar.com/apps/Office.Remote.for.Android.1.2.0.0_androidgozar.com.apk) دانلود کنید.
+ ابتدا افزونه Office Remote را از[ (این لینک) ](https://www.microsoft.com/en-us/download/confirmation.aspx?id=41149)دانلود کنید. سپس از[ (این لینک)](https://www.microsoft.com/en-us/p/office-remote/9wzdncrfhx5h#activetab=pivot:overviewtab) اپ موبایل آن را دانلود کنید. اگر از این لینک تنوانستید می توانید اپ را از [(این لینک)](https://dl.androidgozar.com/apps/Office.Remote.for.Android.1.2.0.0_androidgozar.com.apk) دانلود کنید.
 
  اکنون افزونه آن را به صورت زیر نصب کنید:
 

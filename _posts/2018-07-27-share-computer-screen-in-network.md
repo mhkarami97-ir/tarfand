@@ -18,7 +18,7 @@ tags:
 
  <span style="color:#0000FF;">**دانلود نرم افزار**</span>
 
- ابتدا نرم افزار *Screen Task* که کدباز نیز می باشد را از [(این لینک) ](http://goo.gl/gHnPmN)دانلود کنید. همچنین برای توضیحات بیشتر می توانید [(این لینک)](https://github.com/EslaMx7/ScreenTask) را مشاهده کنید.
+ ابتدا نرم افزار *Screen Task* که کدباز نیز می باشد را از [(این لینک) ](https://goo.gl/gHnPmN)دانلود کنید. همچنین برای توضیحات بیشتر می توانید [(این لینک)](https://github.com/EslaMx7/ScreenTask) را مشاهده کنید.
 
  <span style="color:#0000FF;">**آموزش نرم افزار**</span>
 

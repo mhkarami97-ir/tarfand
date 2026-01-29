@@ -55,7 +55,7 @@ tags:
 
 <span style="color: #0000ff;">**استفاده از DiskDigger photo recovery**</span>
 
-ابتدا نرم افزار را از [(این لینک)](http://www.farsroid.com/diskdigger-pro-file-recovery/) دانلود کنید و آن را بر روی موبایل خود نصب کنید.
+ابتدا نرم افزار را از [(این لینک)](https://www.farsroid.com/diskdigger-pro-file-recovery/) دانلود کنید و آن را بر روی موبایل خود نصب کنید.
 
 این نرم افزار دارای دو حالت روت و بدون روت می باشد که نسخه بدون روت بخشی از اطلاعات را می تواند بازیابی کند.
 

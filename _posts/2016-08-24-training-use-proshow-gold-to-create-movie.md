@@ -97,7 +97,7 @@ tags:
 
 برای این کار بعد از دانلود افکت های مورد نظر از اینترنت به طور مثال از لینک های زیر آن ها را به مسیر زیر اضافه کنید.
 
-[پارت اول](http://dl2.soft98.ir/soft/p-q/Photodex.ProShow.Producer.StylePacks.part1.rar) + [پارت دوم](http://dl2.soft98.ir/soft/p-q/Photodex.ProShow.Producer.StylePacks.part2.rar)  
+[پارت اول](https://dl2.soft98.ir/soft/p-q/Photodex.ProShow.Producer.StylePacks.part1.rar) + [پارت دوم](https://dl2.soft98.ir/soft/p-q/Photodex.ProShow.Producer.StylePacks.part2.rar)  
 
 <span style="color: #993300;">*C:\\Program Files (x86)\\Photodex\\ProShow Gold\\styles*</span>
 
@@ -107,9 +107,9 @@ tags:
 
 ProShow Gold به طور پیش فرض از زبان فارسی پشتیبانی نمی کند ، اما شما توسط نرم افزار های زیر می توانید در محیط این نرم افزار به زبان فارسی بنویسید.
 
-[فارسی نویس مریم](http://maryamsoft.com/)  
+[فارسی نویس مریم](https://maryamsoft.com/)  
 
-[پارسی نگار](http://soft98.ir/software/farsi/285-LeoMoon-ParsiNegar.html)  
+[پارسی نگار](https://soft98.ir/software/farsi/285-LeoMoon-ParsiNegar.html)  
 
 <span style="color: #0000ff;">**فیلم آموزش فعال سازی و همچنین کلیپ نمونه ساخته شده:**</span>
 

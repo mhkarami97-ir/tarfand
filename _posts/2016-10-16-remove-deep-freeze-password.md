@@ -22,7 +22,7 @@ tags:
 
 <span style="color: #0000ff;">**نرم افزار مورد نیاز**</span>
 
-اکنون شما به یک ویندوز بوتیل بدون نیاز به نصب دارید که می توانید یک نمونه از آن را از [<span style="color: #993300;">(این لینک)</span>](http://soft98.ir/software/1197-hirens_bootcd.html) دانلود کنید.
+اکنون شما به یک ویندوز بوتیل بدون نیاز به نصب دارید که می توانید یک نمونه از آن را از [<span style="color: #993300;">(این لینک)</span>](https://soft98.ir/software/1197-hirens_bootcd.html) دانلود کنید.
 
 <span style="color: #0000ff;">**آموزش پاک کردن پسورد**</span>
 

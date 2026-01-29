@@ -50,15 +50,15 @@ tags:
 
 برای دریافت لایک نامحدود کافی است به یکی از دو لینک زیر بروید و مانند ترفند بالا لینک عکس خود را در آن ها قرار دهید تا لایک دریافت کنید.
 
-<span style="color: #008000;">[First Site](http://kataksakti.pe.hu/instagram/index.php)</span>
+<span style="color: #008000;">[First Site](https://kataksakti.pe.hu/instagram/index.php)</span>
 
-<span style="color: #008000;">[Second Site](http://froze.pw/)</span>
+<span style="color: #008000;">[Second Site](https://froze.pw/)</span>
 
 ![mhkarami97](/assets/files/2017/07/itarfand-336.jpg)  
 
 <span style="color: #0000ff;">**استفاده از سایت برای دریافت دنبال کننده**</span>
 
-ابتدا به[ ( این سایت )](http://addmefast.com/) بروید و پس از عضویت و وارد شدن گزینه *Add Site/Page* را انتخاب کنید.
+ابتدا به[ ( این سایت )](https://addmefast.com/) بروید و پس از عضویت و وارد شدن گزینه *Add Site/Page* را انتخاب کنید.
 
 در این صفحه بنا به نیاز خود *Instagram Follower* یا *Instagram Likes* را انتخاب کنید و سپس آی دی صفحه خود را انتخاب کنید. گزینه *CPC* مقداری است که در صورت دنبال شدن شما توسط دیگران از مقدار سکه های شما کم می شود.
 
