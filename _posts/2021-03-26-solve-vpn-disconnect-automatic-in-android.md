@@ -36,6 +36,6 @@ Setting/System &amp; Updates/Developer Options
 
 **اگر با کارهای بالا مشکل شما حل نشد، کافی هست کارهای کلیپ زیر را انج**ام دهید:
 
-[VPN Auto disconnect problem solved || VPN auto disconnect problem pubg mobile lite – YouTub](https://www.youtube.com/watch?v=Rz66esR049s)e
+[VPN Auto disconnect problem solved || VPN auto disconnect problem pubg mobile lite – YouTub](https://www.youtube.com/watch?v=Rz66esR049s)
 
 [App Cloner 2.13.2 – نصب نسخه های متعدد از یک اپلیکیشن در اندروید (farsroid.com)](https://www.farsroid.com/app-cloner-android/)  
