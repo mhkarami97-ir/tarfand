@@ -111,6 +111,10 @@ div[class^='language-'] .code-header span {
   margin: 0 auto;
 }
 
+.content a.popup {
+  left: auto;
+}
+
 .content h2,
 .content h3,
 .content h4,
